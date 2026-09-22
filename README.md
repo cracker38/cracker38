@@ -66,23 +66,6 @@
 
 ---
 
-<div align="center">
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<br>
-
-<a href="https://github.com/cracker38">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=cracker38&hide_border=true&area=true&custom_title=Elias%20Dukuzumuremyi%20-%20Contribution%20Graph"
-  alt="Elias Dukuzumuremyi GitHub Contribution Graph"
-/>
-
-</a>
-
-</div>
-
 ---
 
 # 🚀 FEATURED PROJECTS
